@@ -5,6 +5,7 @@
 - From Guatemala
 - Fluent in English and Spanish
 - Enojoy working out and traveling
+  
 
 _Technical Skills_
 1. Java
@@ -22,4 +23,12 @@ My very first lines of code went as follows:
     System.out.println("Hello World");
 }
 '
+ 
+### Current Tasks ###
+- [] Finalize a construction company website for a client
+- [] Prepare resume and practice for upcoming interviews
+
+### Sites Used ###
+- [GitHub Pages](https://pages.github.com/).
+- [GitHub Docs](https://docs.github.com/).
   
