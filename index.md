@@ -10,7 +10,7 @@
 - Enojoy working out and traveling
   
 
-##_Technical Skills_##
+## _Technical Skills_
 1. Java
 2. C++
 3. C
