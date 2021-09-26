@@ -11,7 +11,7 @@
 - Enojoy working out and traveling
   
 
-## _Technical Skills_ ![This is a link]((https://www.tutorialspoint.com/java/java_documentation.html)
+## _Technical Skills_ ![This is a link](https://www.tutorialspoint.com/java/java_documentation.html)
 1. Java
 2. C++
 3. C
