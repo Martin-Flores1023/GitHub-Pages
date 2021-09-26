@@ -12,7 +12,7 @@
   
 
 ## _Technical Skills_ 
-[a section link](https://www.tutorialspoint.com/java/java_documentation.html)
+[a section link](https://www.tutorialspoint.com/java/java_documentation.htm)
 1. Java
 2. C++
 3. C
