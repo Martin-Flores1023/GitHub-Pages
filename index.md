@@ -21,7 +21,7 @@
 5. MAC OS 
 6. Windows Operating Systems
 
-Some basic Git commands are:
+My very first program was:
 ```
 System.out.println("Hello World!");
 ```
