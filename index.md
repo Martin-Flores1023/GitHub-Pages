@@ -1,16 +1,17 @@
 # Martin Flores Page
 ![THis is an image](https://inteng-storage.s3.amazonaws.com/img/iea/nR6bkXZxwo/sizes/software-engineering-skills_resize_md.jpg)
 ## **About Me**
+- Computer Engineering Major.
+- Roughly 3 years experience.
 - Love playing and watching soccer.
 - ![This is an image](https://deadline.com/wp-content/uploads/2020/03/10577674db.jpg)
 - First Generation College Student
 - From Guatemala
-  ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png)
 - Fluent in English and Spanish
 - Enojoy working out and traveling
   
 
-## _Technical Skills_ ![This is a link](https://github.com/Martin-Flores1023/GitHub-Pages/blob/main/index.md#:~:text=Technical-,Skills,-Java)
+## _Technical Skills_ ![This is a link]((https://www.tutorialspoint.com/java/java_documentation.html)
 1. Java
 2. C++
 3. C
