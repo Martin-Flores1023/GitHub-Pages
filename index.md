@@ -11,8 +11,8 @@
 - Enojoy working out and traveling
   
 ## **Resume**
-- ![This is an image](https://github.com/Martin-Flores1023/GitHub-Pages/blob/main/CSE%20Gen%20Resume%202020%20Internships.pdf) 
-## _Technical Skills_ ![This is a link](https://www.tutorialspoint.com/java/java_documentation.htm)
+[a relative link](https://github.com/Martin-Flores1023/GitHub-Pages/blob/main/CSE%20Gen%20Resume%202020%20Internships.pdf) 
+## _Technical Skills_ [a section link](https://www.tutorialspoint.com/java/java_documentation.htm)
 1. Java
 2. C++
 3. C
