@@ -10,7 +10,8 @@
 - Fluent in English and Spanish
 - Enojoy working out and traveling
   
-
+## **Resume Image**
+![This is an image](https://github.com/Martin-Flores1023/GitHub-Pages/blob/main/CSE%20Gen%20Resume%202020%20Internships.pdf) 
 ## _Technical Skills_ ![This is a link](https://www.tutorialspoint.com/java/java_documentation.htm)
 1. Java
 2. C++
