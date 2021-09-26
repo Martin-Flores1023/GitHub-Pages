@@ -1,5 +1,6 @@
 # Martin Flores Page
 ![THis is an image](https://inteng-storage.s3.amazonaws.com/img/iea/nR6bkXZxwo/sizes/software-engineering-skills_resize_md.jpg)
+> _TRUST THE PROCESS_
 ## **About Me**
 - Computer Engineering Major.
 - Roughly 3 years experience.
@@ -19,16 +20,11 @@
 4. Basic understanding of Python
 5. MAC OS 
 6. Windows Operating Systems
-   
-A Quote that I tend aceept as my mantra would be:
-> Trust The Process.
 
-My very first lines of code went as followed:
-'''
-public static void main(String[] args){
-    System.out.println("Hello World");
-}
-'''
+Some basic Git commands are:
+```
+System.out.println("Hello World!");
+```
  
 ### Current Tasks ###
 - [ ] Finalize a construction company website for a client
