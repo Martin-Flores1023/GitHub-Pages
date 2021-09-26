@@ -39,4 +39,5 @@ public static void main(String[] args){
 - [GitHub Docs](https://docs.github.com/).
 
 ### Documentation ###
-[a relative link](README.md)
+ _Here is a test README.md file that would normally hold the documentation_ 
+ [a relative link](README.md)
