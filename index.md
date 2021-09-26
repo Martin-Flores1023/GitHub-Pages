@@ -1,6 +1,6 @@
 # Martin Flores Page
 ![THis is an image](https://inteng-storage.s3.amazonaws.com/img/iea/nR6bkXZxwo/sizes/software-engineering-skills_resize_md.jpg)
-> _TRUST THE PROCESS_
+> _TRUST THE PROCESS!_
 ## **About Me**
 - Computer Engineering Major.
 - Roughly 3 years experience.
